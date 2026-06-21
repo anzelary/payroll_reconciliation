@@ -70,3 +70,7 @@ The notebook provides clear data‑loading steps, transformation logic, alidatio
 
 Created by **Anzela Rizakova**  
 For collaboration or questions, feel free to reach out via GitHub.
+
+## Preview (examples)
+![Dashboard Screenshot](image_payroll_rec.jpg)
+
